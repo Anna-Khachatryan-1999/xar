@@ -1,0 +1,21 @@
+1. Which of the followings is/are automatically added to every class, if we do not write our own.
+  a: Copy Constructor
+  b: Assignment Operator
+  c: A constructor without any parameter
+  d: All of the above
+Answer: d
+
+2. Which of the following is true?
+  a: Static methods cannot be overloaded
+  b: Static data members can only be accessed by static methods.
+  c: Non-static data members can be accessed by static methods.
+  d: Static methods can only access static members (data and methods)
+Answer: d
+
+3. Suppose we have a O(n) time algorithm that finds median of an unsorted array. Now consider a QuickSort implementation where we first find median using the above algorithm, then use median as pivot. What will be the worst case time complexity of this modified QuickSort.
+  a: O(n^2 Logn)
+  b: O(n^2)
+  c: O(nLogn)
+  d: O(n Logn Logn)
+Answer: c
+

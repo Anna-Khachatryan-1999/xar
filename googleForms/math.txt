@@ -1,0 +1,13 @@
+1. Evaluation of 8^3 × 8^2 × 8^(-5) is …………. . 
+  a: 1
+  b: 0
+  c: 8
+  d: None of these.
+Answer: a
+
+2. 35/700 expressed as a percentage is:
+  a: 50%
+  b: 0.5%
+  c: 5%
+  d: 0.05%
+Answer: c
